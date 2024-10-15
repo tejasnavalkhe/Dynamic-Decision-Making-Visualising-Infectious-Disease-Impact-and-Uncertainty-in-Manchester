@@ -1,4 +1,4 @@
-# Dynamic Decision-Making: Visualising Infectious Disease Impact and Uncertainty in Manchester
+# Dynamic Decision-Making: Visualising Infectious Disease Impact and Uncertainty in Manchester Using Power BI
 
 • Developed an interactive Power BI dashboard to visualise the impact and uncertainty of an airborne infectious disease outbreak in Manchester.
 
